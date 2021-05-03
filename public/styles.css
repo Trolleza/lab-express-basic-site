@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+h1{
+    color: cyan;
+}
+h3{
+    color: rgb(255, 0, 234);
+}
+h5{
+    color: rgb(255, 242, 61);
+}
+
+#home{
+    width: 350px;
+}
